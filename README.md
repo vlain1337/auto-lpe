@@ -22,9 +22,6 @@
   
 </samp>
 
-<div align="center"><h1>Usage</h1></div>
-
-
 <div align="center"><h1>Curl</h1></div>
 
 ```
