@@ -1,5 +1,5 @@
 #!/bin/bash
-#check gcc
+#check gcc function
 gcc=$(which gcc)
 if [ "$?" != "0" ]; then
     FaIl="YES"
@@ -11,7 +11,7 @@ else
     echo "[+] Gcc    : found!"
     sleep 1
 fi
-
+#check wget function
 wget=$(which wget)
 if [ "$?" != "0" ]; then
     FaIl="YES"
@@ -23,9 +23,10 @@ else
     echo "[+] Wget    : found!"
     sleep 1
 fi
-
+#check git function
 git=$(which git)
 if [ "$?" != "0" ]; then
+    #if git function not found
     echo "[-] Git -> not found!"
     echo "[*] Continue ? (Y/N)"
     read -p "autolpe@localhost:~# " hIZx
