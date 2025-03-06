@@ -8,7 +8,16 @@
 ![version](https://img.shields.io/badge/VERSION-1.0.2-a3be8c?style=flat-square)
   
  </div>
+
 <br>
+
+<div align="center"><h1>Changes</h1></div>
+
+<samp>
+  
+* Fixed dos2unix error
+
+</samp>
 
 <div align="center"><h1>Requirements</h1></div>
 
