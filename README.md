@@ -11,7 +11,7 @@
 
 <br>
 
-<div align="center"><h1>Changes</h1></div>
+<div align="center"><h1>Changelog</h1></div>
 
 <samp>
   
