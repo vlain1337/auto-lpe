@@ -12,11 +12,9 @@
 
 <div align="center"><h1>Changelog</h1></div>
 
-<samp>
-  
+```  
 * Fixed dos2unix error
-
-</samp>
+```
 
 <div align="center"><h1>Requirements</h1></div>
 
@@ -145,4 +143,5 @@ bash -c "$(wget --no-verbose -O- https://raw.githubusercontent.com/vlain1337/aut
 ## Disclaimer
 
 This repository is for educationnal purposes only.
-Malicious usage of this repository are not the author responsibility.
+<br>
+Any malicious usage of this repository are not the author responsibility.
