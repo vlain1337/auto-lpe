@@ -140,7 +140,7 @@ bash -c "$(wget --no-verbose -O- https://raw.githubusercontent.com/vlain1337/aut
 
 </samp>
 
-## Disclaimer
+<div align="center"><h1>Disclaimer</h1></div>
 
 This repository is for educationnal purposes only.
 <br>
