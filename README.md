@@ -20,11 +20,11 @@
 
 <samp>
   
-* GIT
+* GCC
   
 * WGET
   
-* GCC
+* GIT
   
 </samp>
 
